@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1080667745634",
+    "project_id": "perlinda-36519",
+    "storage_bucket": "perlinda-36519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080667745634:android:804782e36415ad8006103b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_perlinda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuRjz_puZLjRFW7hjncHcvrEgSq77SOzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080667745634:android:3d67cdc730374f7406103b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_perlinda_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuRjz_puZLjRFW7hjncHcvrEgSq77SOzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080667745634:android:312d762652f4cae806103b",
+        "android_client_info": {
+          "package_name": "com.perlindaadmin.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuRjz_puZLjRFW7hjncHcvrEgSq77SOzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
